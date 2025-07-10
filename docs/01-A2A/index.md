@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Future: AI Agents That Actually Talk to Each Other
 
-Imagine your AI bots chatting like besties across different apps and platforms—no drama, no lag. for AI agents to talk directly to each other.Imagine your AI bots chatting like besties across different apps and platforms—no drama, no lag. That’s the magic of the **Agent-to-Agent (A2A) protocol**, and Microsoft Azure is leading the charge. 💬🤖
+Imagine your AI bots chatting like besties across different apps and platforms—no drama, no lag. for AI agents to talk directly to each other. That’s the magic of the **Agent-to-Agent (A2A) protocol** 💬🤖
 
 ---
 
